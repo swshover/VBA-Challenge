@@ -1,3 +1,3 @@
 # VBA-Challenge
 Module 2 homework
-I worked with a TA, Instructor, and Peer (Eleanor) to write the code
+I worked with a TA and Peer (Eleanor) as part of a study group to write the code. 
